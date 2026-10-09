@@ -1,0 +1,21 @@
+# Godot 3 - arquivos importados
+.import/
+
+# Configurações locais de exportação
+export.cfg
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos temporários e logs
+*.tmp
+*.log
+
+# Editores de código (opcional)
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
